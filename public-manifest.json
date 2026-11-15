@@ -1324,6 +1324,11 @@
       "sha256": "447e6fad24398086d52eb8948c2283e92a16ef566ccdea167af0a074ab54a8d1"
     },
     {
+      "path": "docs/models-inventory.md",
+      "bytes": 191222,
+      "sha256": "7b6fa0b3914a1f1495324289e12b4c5cd26b4149ef4da9f69d7ad817c9992aee"
+    },
+    {
       "path": "docs/note/01-brand-and-logo.md",
       "bytes": 5692,
       "sha256": "79c4e7f091f7443dd5a7fcf860d6590d0234a2404186aa2696fea964ca065dca"
