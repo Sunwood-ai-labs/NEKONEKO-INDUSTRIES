@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "workspace": "C:/Prj/NEKOMO",
+  "messages_before_utc": "2026-11-13T06:12:06.874Z",
+  "note": "Counts include injected user context. Discovery and counting do not prove human review. Session hashes cover whole files at execution time; active files can change.",
+  "root_session_count": 20,
+  "child_session_count": 197,
+  "child_sessions_by_parent": {
+    "01a1beae-7731-7510-b683-b3c709f33730": 32,
+    "01a1bff1-34d2-7fa3-91f2-6f1386c199bd": 1,
+    "01a1bff5-87cc-7113-a4dc-2c4cb667134d": 9,
+    "01a1c003-f9a9-7d20-8e42-eccfcbd6749d": 1,
+    "01a1c01f-e639-7d33-bd15-bcd64a2fff78": 2,
+    "01a1c51a-7f2f-77b3-a133-c2c868770a84": 21,
+    "01a1c791-c042-7300-b763-5a02170576e1": 1,
+    "01a1cacb-987e-7612-a47b-152e856122fd": 34,
+    "01a1cacc-1960-7f72-b59f-638b0b2b042b": 14,
+    "01a1cad2-0629-7322-9358-7c1be06ab783": 23,
+    "01a1cb17-73c1-7da1-9c38-01a03c8bf30d": 21,
+    "01a1cb1a-7a36-72e2-8a9b-4471d813553a": 9,
+    "01a1cd78-f840-7c02-8520-2287fc1a4fba": 1,
+    "01a1cdab-bcfd-7703-b0bc-a292e8942e20": 1,
+    "01a1cdac-85e0-7d90-ae7c-45fb2ff126e8": 1,
+    "01a1cdb6-2370-7f92-87b5-ec4b580ce3c5": 14,
+    "01a1cf11-0be0-72e1-afe1-15a0895d8f81": 5,
+    "01a1cf81-c84f-7893-90d3-192fc338a389": 1,
+    "01a1cf84-4e3a-7711-a79d-4725b0af1227": 1,
+    "01a1cf9e-39e8-7720-8ea6-96ad404ea6d2": 3,
+    "01a1d2ff-0f0d-7521-8841-5b1c066c17b6": 2
+  },
+  "root_sessions": [
+    {
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "session_file": "rollout-2026-11-09T14-01-07-01a1beae-7731-7510-b683-b3c709f33730.jsonl",
+      "started_at_utc": "2026-11-09T05:01:07.255Z",
+      "first_message_utc": "2026-11-09T05:01:10.111Z",
+      "last_message_utc": "2026-11-11T16:12:20.152Z",
+      "message_counts": {
+        "user": 59,
+        "assistant": 173
+      },
+      "session_sha256_at_inventory": "128e67190e2c8d3553cd1fc10847c9e50dc0831615d044b0e963439d82e7f1ff"
+    },
+    {
+      "thread_id": "01a1bff1-34d2-7fa3-91f2-6f1386c199bd",
+      "session_file": "rollout-2026-11-09T19-53-38-01a1bff1-34d2-7fa3-91f2-6f1386c199bd.jsonl",
+      "started_at_utc": "2026-11-09T10:53:38.423Z",
+      "first_message_utc": "2026-11-09T10:53:42.232Z",
+      "last_message_utc": "2026-11-09T10:56:57.627Z",
+      "message_counts": {
+        "user": 2,
+        "assistant": 4
+      },
+      "session_sha256_at_inventory": "8cf89587282188756e24d98245d42861ccc5baf4807f99a92412529a27cd967c"
+    },
+    {
+      "thread_id": "01a1bff5-87cc-7113-a4dc-2c4cb667134d",
+      "session_file": "rollout-2026-11-09T19-58-21-01a1bff5-87cc-7113-a4dc-2c4cb667134d.jsonl",
+      "started_at_utc": "2026-11-09T10:58:21.778Z",
+      "first_message_utc": "2026-11-09T10:58:23.795Z",
+      "last_message_utc": "2026-11-09T12:06:26.512Z",
+      "message_counts": {
+        "user": 10,
+        "assistant": 36
+      },
+      "session_sha256_at_inventory": "96f424f6c9df972360b4c175332b4b75daa0753cc0f8500d9049a42a362e54e6"
+    },
+    {
+      "thread_id": "01a1c003-f9a9-7d20-8e42-eccfcbd6749d",
+      "session_file": "rollout-2026-11-09T20-14-08-01a1c003-f9a9-7d20-8e42-eccfcbd6749d.jsonl",
+      "started_at_utc": "2026-11-09T11:14:08.439Z",
+      "first_message_utc": "2026-11-09T11:14:10.595Z",
+      "last_message_utc": "2026-11-09T11:35:29.055Z",
+      "message_counts": {
+        "user": 6,
+        "assistant": 13
+      },
+      "session_sha256_at_inventory": "6c0f67a1030e668dac7c64087b4c6a6cdf23f442920130104e34311a61bcd0c3"
+    },
+    {
+      "thread_id": "01a1c01f-e639-7d33-bd15-bcd64a2fff78",
+      "session_file": "rollout-2026-11-09T20-44-38-01a1c01f-e639-7d33-bd15-bcd64a2fff78.jsonl",
+      "started_at_utc": "2026-11-09T11:44:38.463Z",
+      "first_message_utc": "2026-11-09T11:44:42.998Z",
+      "last_message_utc": "2026-11-09T20:19:52.873Z",
+      "message_counts": {
+        "user": 15,
+        "assistant": 27
+      },
+      "session_sha256_at_inventory": "f5e663d35502995f846e5bef68148be01465928159f1a761f6cb45759a162891"
+    },
+    {
+      "thread_id": "01a1c51a-7f2f-77b3-a133-c2c868770a84",
+      "session_file": "rollout-2026-11-10T19-56-50-01a1c51a-7f2f-77b3-a133-c2c868770a84.jsonl",
+      "started_at_utc": "2026-11-10T10:56:50.487Z",
+      "first_message_utc": "2026-11-10T10:56:54.110Z",
+      "last_message_utc": "2026-11-11T04:27:00.190Z",
+      "message_counts": {
+        "user": 20,
+        "assistant": 71
+      },
+      "session_sha256_at_inventory": "a8443d4ffdc91b44f8c69e59ee359f30e6f32bcce5ddc5e4dc1d7283082a1852"
+    },
+    {
+      "thread_id": "01a1cacb-987e-7612-a47b-152e856122fd",
+      "session_file": "rollout-2026-11-11T22-28-23-01a1cacb-987e-7612-a47b-152e856122fd.jsonl",
+      "started_at_utc": "2026-11-11T13:28:23.079Z",
+      "first_message_utc": "2026-11-11T13:28:25.351Z",
+      "last_message_utc": "2026-11-13T06:00:31.838Z",
+      "message_counts": {
+        "user": 58,
+        "assistant": 393
+      },
+      "session_sha256_at_inventory": "73b14a3038e86525efe37633c584503b59d1fb4056031399a7d88360f22c02d4"
+    },
+    {
+      "thread_id": "01a1cacc-1960-7f72-b59f-638b0b2b042b",
+      "session_file": "rollout-2026-11-11T22-28-56-01a1cacc-1960-7f72-b59f-638b0b2b042b.jsonl",
+      "started_at_utc": "2026-11-11T13:28:56.074Z",
+      "first_message_utc": "2026-11-11T13:28:58.414Z",
+      "last_message_utc": "2026-11-12T02:16:02.614Z",
+      "message_counts": {
+        "user": 15,
+        "assistant": 44
+      },
+      "session_sha256_at_inventory": "d4a5505281a4a4defbf194ec77441f19558e85c596f90c8c965106dd58fb299a"
+    },
+    {
+      "thread_id": "01a1cad2-0629-7322-9358-7c1be06ab783",
+      "session_file": "rollout-2026-11-11T22-35-24-01a1cad2-0629-7322-9358-7c1be06ab783.jsonl",
+      "started_at_utc": "2026-11-11T13:35:24.370Z",
+      "first_message_utc": "2026-11-11T13:35:32.283Z",
+      "last_message_utc": "2026-11-12T02:26:42.847Z",
+      "message_counts": {
+        "user": 28,
+        "assistant": 90
+      },
+      "session_sha256_at_inventory": "52e138cbd2b852afc360bc86e1ac82f6201f528fdc56d5c33fd9585b5852de6a"
+    },
+    {
+      "thread_id": "01a1cb17-73c1-7da1-9c38-01a03c8bf30d",
+      "session_file": "rollout-2026-11-11T23-51-14-01a1cb17-73c1-7da1-9c38-01a03c8bf30d.jsonl",
+      "started_at_utc": "2026-11-11T14:51:14.430Z",
+      "first_message_utc": "2026-11-11T14:51:19.693Z",
+      "last_message_utc": "2026-11-12T15:27:06.920Z",
+      "message_counts": {
+        "user": 21,
+        "assistant": 65
+      },
+      "session_sha256_at_inventory": "89aeb2d96b5038c8904c73c4afc93d1aa51c0351c0dbbb5b9a415c34f9876fed"
+    },
+    {
+      "thread_id": "01a1cb1a-7a36-72e2-8a9b-4471d813553a",
+      "session_file": "rollout-2026-11-11T23-54-32-01a1cb1a-7a36-72e2-8a9b-4471d813553a.jsonl",
+      "started_at_utc": "2026-11-11T14:54:32.872Z",
+      "first_message_utc": "2026-11-11T14:54:37.468Z",
+      "last_message_utc": "2026-11-12T13:01:50.224Z",
+      "message_counts": {
+        "user": 15,
+        "assistant": 80
+      },
+      "session_sha256_at_inventory": "f92f14ae5bb25f31ff9d1660f3f85b4c27cfe000ebd7f382c7a4ccc483f6c738"
+    },
+    {
+      "thread_id": "01a1cd78-f840-7c02-8520-2287fc1a4fba",
+      "session_file": "rollout-2026-11-12T10-56-59-01a1cd78-f840-7c02-8520-2287fc1a4fba.jsonl",
+      "started_at_utc": "2026-11-12T01:56:59.734Z",
+      "first_message_utc": "2026-11-12T01:57:02.979Z",
+      "last_message_utc": "2026-11-12T01:59:02.283Z",
+      "message_counts": {
+        "user": 2,
+        "assistant": 3
+      },
+      "session_sha256_at_inventory": "ccec3edb85cd24a8aeb4edb6fd39ef377db366deb145fc0c66bff4e972122d45"
+    },
+    {
+      "thread_id": "01a1cdac-85e0-7d90-ae7c-45fb2ff126e8",
+      "session_file": "rollout-2026-11-12T11-53-18-01a1cdac-85e0-7d90-ae7c-45fb2ff126e8.jsonl",
+      "started_at_utc": "2026-11-12T02:53:18.334Z",
+      "first_message_utc": "2026-11-12T02:53:22.564Z",
+      "last_message_utc": "2026-11-12T06:16:53.412Z",
+      "message_counts": {
+        "user": 5,
+        "assistant": 8
+      },
+      "session_sha256_at_inventory": "7c805c0188ab103156138fa6521ddcdd40aafaefd8a4bdd75ecf6f014207230e"
+    },
+    {
+      "thread_id": "01a1cdb6-2370-7f92-87b5-ec4b580ce3c5",
+      "session_file": "rollout-2026-11-12T12-03-48-01a1cdb6-2370-7f92-87b5-ec4b580ce3c5.jsonl",
+      "started_at_utc": "2026-11-12T03:03:48.595Z",
+      "first_message_utc": "2026-11-12T03:03:52.707Z",
+      "last_message_utc": "2026-11-13T06:11:31.602Z",
+      "message_counts": {
+        "user": 19,
+        "assistant": 49
+      },
+      "session_sha256_at_inventory": "4c42d29a364171f49cf6e4c735b07014115d0001b7b13946f4f9ebba8abd24b8"
+    },
+    {
+      "thread_id": "01a1cf11-0be0-72e1-afe1-15a0895d8f81",
+      "session_file": "rollout-2026-11-12T18-22-43-01a1cf11-0be0-72e1-afe1-15a0895d8f81.jsonl",
+      "started_at_utc": "2026-11-12T09:22:43.499Z",
+      "first_message_utc": "2026-11-12T09:22:47.701Z",
+      "last_message_utc": "2026-11-12T11:17:13.217Z",
+      "message_counts": {
+        "user": 6,
+        "assistant": 16
+      },
+      "session_sha256_at_inventory": "5214b2d8b3cd61d37ec2a4a69990102fa58191a12d35dff7294822b094829ea9"
+    },
+    {
+      "thread_id": "01a1cf81-c84f-7893-90d3-192fc338a389",
+      "session_file": "rollout-2026-11-12T20-25-51-01a1cf81-c84f-7893-90d3-192fc338a389.jsonl",
+      "started_at_utc": "2026-11-12T11:25:51.690Z",
+      "first_message_utc": "2026-11-12T11:25:56.469Z",
+      "last_message_utc": "2026-11-12T11:27:22.962Z",
+      "message_counts": {
+        "user": 2,
+        "assistant": 3
+      },
+      "session_sha256_at_inventory": "c26c9eb1df93a4b3aadbf537fd35cc4329d06a068b77241080581b0c76f25183"
+    },
+    {
+      "thread_id": "01a1cf84-4e3a-7711-a79d-4725b0af1227",
+      "session_file": "rollout-2026-11-12T20-28-37-01a1cf84-4e3a-7711-a79d-4725b0af1227.jsonl",
+      "started_at_utc": "2026-11-12T11:28:37.078Z",
+      "first_message_utc": "2026-11-12T11:28:41.305Z",
+      "last_message_utc": "2026-11-12T13:25:37.994Z",
+      "message_counts": {
+        "user": 13,
+        "assistant": 24
+      },
+      "session_sha256_at_inventory": "0c9725fb8e101829939489f6be43fa6147b0241455d7994dcd12101e77f17f6b"
+    },
+    {
+      "thread_id": "01a1cf9e-39e8-7720-8ea6-96ad404ea6d2",
+      "session_file": "rollout-2026-11-12T20-56-55-01a1cf9e-39e8-7720-8ea6-96ad404ea6d2.jsonl",
+      "started_at_utc": "2026-11-12T11:56:55.820Z",
+      "first_message_utc": "2026-11-12T11:56:58.238Z",
+      "last_message_utc": "2026-11-13T04:37:31.558Z",
+      "message_counts": {
+        "user": 17,
+        "assistant": 52
+      },
+      "session_sha256_at_inventory": "954e40973b1b811c1836f3b441609e9121188b6c56468104c8ffa0ae5508d674"
+    },
+    {
+      "thread_id": "01a1d225-db95-7293-8bc2-e63c36bb846d",
+      "session_file": "rollout-2026-11-13T08-44-20-01a1d225-db95-7293-8bc2-e63c36bb846d.jsonl",
+      "started_at_utc": "2026-11-12T23:44:20.634Z",
+      "first_message_utc": "2026-11-12T23:44:27.437Z",
+      "last_message_utc": "2026-11-13T00:26:04.154Z",
+      "message_counts": {
+        "user": 5,
+        "assistant": 8
+      },
+      "session_sha256_at_inventory": "7a5f18837bca6945ed1f751439282d0cf47ec78a12410eb3afb6531e49774ddc"
+    },
+    {
+      "thread_id": "01a1d2ff-0f0d-7521-8841-5b1c066c17b6",
+      "session_file": "rollout-2026-11-13T12-41-33-01a1d2ff-0f0d-7521-8841-5b1c066c17b6.jsonl",
+      "started_at_utc": "2026-11-13T03:41:33.464Z",
+      "first_message_utc": "2026-11-13T03:41:36.126Z",
+      "last_message_utc": "2026-11-13T04:37:42.401Z",
+      "message_counts": {
+        "user": 6,
+        "assistant": 13
+      },
+      "session_sha256_at_inventory": "6aaabfce2fc8448a83995f1e75f5711608b2b70967e6f906ce7053da0b07a3a4"
+    }
+  ],
+  "parse_errors": []
+}

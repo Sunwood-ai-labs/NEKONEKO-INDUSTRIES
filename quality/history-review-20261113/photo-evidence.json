@@ -1,0 +1,143 @@
+{
+  "recorded_date": "2026-11-13",
+  "note": "Unmodified copies of reported physical photographs. v06 version association is high-confidence visual matching, not direct job-ID proof. Photograph appearance alone does not establish root cause.",
+  "photos": [
+    {
+      "path": "photos/v06-01.jpg",
+      "case_id": "NEKOMO-TR-001",
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "source": "codex-remote-attachments/01a1beae-7731-7510-b683-b3c709f33730/29AA706E-2594-4898-9BF0-724FEA4BE1EC/1-写真1.jpg",
+      "sha256": "cacd2e9b4c77bfc818d414aae45d87ff748e7ec74802203e2bdcc4154db0d244",
+      "bytes": 1302932,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/v06-02.jpg",
+      "case_id": "NEKOMO-TR-001",
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "source": "codex-remote-attachments/01a1beae-7731-7510-b683-b3c709f33730/29AA706E-2594-4898-9BF0-724FEA4BE1EC/2-写真2.jpg",
+      "sha256": "122ae581d68dc7d5f4171959e9ae22af291d10449bb6119670d512e2eef5d1af",
+      "bytes": 1155138,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/v06-03.jpg",
+      "case_id": "NEKOMO-TR-001",
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "source": "codex-remote-attachments/01a1beae-7731-7510-b683-b3c709f33730/29AA706E-2594-4898-9BF0-724FEA4BE1EC/3-写真3.jpg",
+      "sha256": "2bfac1b6c7c06c75d339d187607bf45c6164eb7491e8967463bcd77c98ff554c",
+      "bytes": 1172873,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/v06-04.jpg",
+      "case_id": "NEKOMO-TR-001",
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "source": "codex-remote-attachments/01a1beae-7731-7510-b683-b3c709f33730/29AA706E-2594-4898-9BF0-724FEA4BE1EC/4-写真4.jpg",
+      "sha256": "a0192ef189d7069965153e633c118f822e2c2c9e6e24ac0d8fece3289c05c295",
+      "bytes": 1190368,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/v06-05.jpg",
+      "case_id": "NEKOMO-TR-001",
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "source": "codex-remote-attachments/01a1beae-7731-7510-b683-b3c709f33730/29AA706E-2594-4898-9BF0-724FEA4BE1EC/5-写真5.jpg",
+      "sha256": "8dc6649d7cc209806bfb06d6cc9d08b2b83bb1473f0a39161875751faf55d633",
+      "bytes": 1229878,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/v06-06.jpg",
+      "case_id": "NEKOMO-TR-001",
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "source": "codex-remote-attachments/01a1beae-7731-7510-b683-b3c709f33730/29AA706E-2594-4898-9BF0-724FEA4BE1EC/6-写真6.jpg",
+      "sha256": "6ba6fc2de02f801ca7c44ba2042165677b5e7844c806a8ed6d8d8f1b5c7f6562",
+      "bytes": 1158537,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/rover-r11-01.jpg",
+      "case_id": "rover-r11-white-failure",
+      "thread_id": "01a1cf9e-39e8-7720-8ea6-96ad404ea6d2",
+      "source": "output/rover-print-20261112/photo-review-20261113/photos/1-写真1.jpg",
+      "sha256": "99e0f5a587aac7dd02f5ddc9f6c919d4b76c69b34d54065946f58d3f94256719",
+      "bytes": 511307,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/rover-r11-02.jpg",
+      "case_id": "rover-r11-white-failure",
+      "thread_id": "01a1cf9e-39e8-7720-8ea6-96ad404ea6d2",
+      "source": "output/rover-print-20261112/photo-review-20261113/photos/2-写真2.jpg",
+      "sha256": "8b62508bf9f1a14da0f4b1000cb2ba9077e1d16ba0dc08ec6fa5684ed793e0c8",
+      "bytes": 361091,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/rover-r11-03.jpg",
+      "case_id": "rover-r11-white-failure",
+      "thread_id": "01a1cf9e-39e8-7720-8ea6-96ad404ea6d2",
+      "source": "output/rover-print-20261112/photo-review-20261113/photos/3-写真3.jpg",
+      "sha256": "36828c1f9b3bb10dc803b61b5604fea6e846f4a59e93a3014038a675c87fad53",
+      "bytes": 352150,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/rover-r11-04.jpg",
+      "case_id": "rover-r11-white-failure",
+      "thread_id": "01a1cf9e-39e8-7720-8ea6-96ad404ea6d2",
+      "source": "output/rover-print-20261112/photo-review-20261113/photos/4-写真4.jpg",
+      "sha256": "fac4f2d848815c217493752f7ef3e7daf119b990147a7588c6d8ece4632e2a5c",
+      "bytes": 328115,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/pick-up-r01-01.jpg",
+      "case_id": "NEKOMO-TR-003",
+      "thread_id": "01a1cdb6-2370-7f92-87b5-ec4b580ce3c5",
+      "source": "quality/print-failure-20261113-pick-up-bench/photos/photo-1.jpg",
+      "sha256": "5e462a27b21a2f9460796b29106005116071f6dbe9942f6337b5b253c609b025",
+      "bytes": 1538526,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/pick-up-r01-02.jpg",
+      "case_id": "NEKOMO-TR-003",
+      "thread_id": "01a1cdb6-2370-7f92-87b5-ec4b580ce3c5",
+      "source": "quality/print-failure-20261113-pick-up-bench/photos/photo-2.jpg",
+      "sha256": "5dec2b996e30be64a91a37b4b12dbc03158cb02f4a6f8715bb957436b3db147b",
+      "bytes": 1288215,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/pick-up-r01-03.jpg",
+      "case_id": "NEKOMO-TR-003",
+      "thread_id": "01a1cdb6-2370-7f92-87b5-ec4b580ce3c5",
+      "source": "quality/print-failure-20261113-pick-up-bench/photos/photo-3.jpg",
+      "sha256": "acd5cf473824bf4379ac18e3362a7607b336c88dd50326c1ba7d5be86b0f1438",
+      "bytes": 1477367,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/v10-01.jpg",
+      "case_id": "v10-window-support-removal-fracture",
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "source": "codex-remote-attachments/01a1beae-7731-7510-b683-b3c709f33730/B7F99B2F-0A20-40F5-8A37-D184656EA167/1-写真1.jpg",
+      "association_evidence": "quality/strength-failure-v10-20261111/incident.json",
+      "sha256": "5410cd45e74348fb7f47bbbb0be076d3b18ccb7f751df34d1ff52528d4f0eba7",
+      "bytes": 3838143,
+      "unmodified_copy": true
+    },
+    {
+      "path": "photos/v10-02.jpg",
+      "case_id": "v10-window-support-removal-fracture",
+      "thread_id": "01a1beae-7731-7510-b683-b3c709f33730",
+      "source": "codex-remote-attachments/01a1beae-7731-7510-b683-b3c709f33730/B7F99B2F-0A20-40F5-8A37-D184656EA167/2-写真2.jpg",
+      "association_evidence": "quality/strength-failure-v10-20261111/incident.json",
+      "sha256": "11b115ec18ca99fad1d055be11604b6bbce40399d66e1ed6beff5a540117572a",
+      "bytes": 3240311,
+      "unmodified_copy": true
+    }
+  ]
+}
