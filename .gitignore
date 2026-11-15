@@ -13,6 +13,8 @@
 !/quality/
 /quality/*
 !/quality/support-removal-preflight.py
+!/quality/support_contact_lint.py
+!/quality/test_support_contact_lint.py
 !/LICENSE
 !/.agents/
 /.agents/*
@@ -57,7 +59,7 @@ node_modules/
 *.tsv
 *.1
 *.2
-/NEKOMO-concept-and-quality.md
+/NEKONEKO-INDUSTRIES-concept-and-quality.md
 /バスの版一覧.md
 /人間のレビュー記録.md
 /designs/**/*.md
