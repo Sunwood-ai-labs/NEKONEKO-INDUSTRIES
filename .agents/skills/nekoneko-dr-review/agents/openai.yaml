@@ -1,4 +1,4 @@
 interface:
-  display_name: "ネコネコインダストリーのDRレビュー"
-  short_description: "家庭で可能な確認と設備試験を分け、版ごとのDR0〜4を証拠付きで審査する"
-  default_prompt: "$nekoneko-dr-review を使い、対象版のDRを家で確認できる範囲で進め、人間の報告とデータ検査、未実施の試験を分けて記録して。"
+  display_name: "ネコネコインダストリー DRレビュー v2"
+  short_description: "家庭試作のDR0〜4をv2基準で審査し、実物検証と印刷承認を分ける"
+  default_prompt: "$nekoneko-dr-review を使い、対象版のDR0〜4 v2で要求・形状・解析・造形データを審査し、実物検証と印刷承認を別に記録して。"
