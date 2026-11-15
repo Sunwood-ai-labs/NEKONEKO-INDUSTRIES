@@ -1,0 +1,49 @@
+{
+  "original_path": "C:/Users/makim/Downloads/Car_Toy_Model_Interior_Bam_60mm.3mf",
+  "sha256": "3b6855b0b94bd02612a7690d432ad7c30604ed8d4991d8fa587aca4b91318baa",
+  "metadata": {
+    "Application": "BambuStudio-02.04.00.70",
+    "BambuStudio:3mfVersion": "1",
+    "Copyright": "",
+    "CreationDate": "2025-12-09",
+    "Description": "<h2><strong>Riding Car Model - Toy for Kids - One piece print</strong></h2><p>🚘 I designed Simple Riding Car Model With <strong>Moving Wheels.</strong></p><p>🧸 <strong>Perfect Toy for kids. </strong>Just print it, and it’s immediately ready to play.</p><p>Adults too, of course! :)</p><p> </p><p>This car model features designed seats and a dashboard inside.</p><p> </p><p>🚗 Enjoy the convenience of riding a one-piece print without the hassle of assembly.</p><p>You can print cars using any color of filament you desire.</p><h4><strong><u>Key features:</u></strong></h4><p>✅ No assembly is required.</p><p>✅ Perfect toy for kids.</p><p>✅ Riding model with moving wheels.</p><p> </p><p>⬇️ <strong>Also check out </strong>other riding models:</p><p>🚐 Double decker Bus → <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://makerworld.com/en/models/2139021\">https://makerworld.com/en/models/2139021</a></p><p>🚗 Riding car → <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://makerworld.com/en/models/1410834\">https://makerworld.com/en/models/1410834</a></p><p> </p><p>⚠️ PETG is recommended because it allows the wheels to move faster and smoother.</p><p> </p><p>⚠️ I recommend using Smooth Plate because the model is printing on the side.</p>",
+    "Designer": "JaKubina",
+    "DesignerCover": "2025-12-20_19b76870b97008.jpg",
+    "DesignerUserId": "3228567163",
+    "License": "Standard Digital File License",
+    "ModificationDate": "2025-12-09",
+    "Origin": "original",
+    "ProfileCover": "2025-12-20_19b76870b97008.jpg",
+    "ProfileDescription": "<p>⚠️ PETG is recommended because it allows the wheels to move faster and smoother.</p><p> </p><p>⚠️ I recommend using Smooth Plate because the model is printing on the side.</p><p> </p><p>🚘 I designed Simple Riding Car Model With <strong>Moving Wheels.</strong></p><p>🧸 <strong>Perfect Toy for kids. </strong>Just print it, and it’s immediately ready to play.</p><p>Adults too, of course! :)</p><p> </p><p>This car model features designed seats and a dashboard inside.</p><p> </p><p>🚗 Enjoy the convenience of riding a one-piece print without the hassle of assembly.</p><p>You can print cars using any color of filament you desire.</p><p> </p><p>⬇️ <strong>Also check out</strong> other riding models:</p><p>🚐 Double decker Bus → <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://makerworld.com/en/models/2139021\">https://makerworld.com/en/models/2139021</a></p><p>🚗 Riding car → <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://makerworld.com/en/models/1410834\">https://makerworld.com/en/models/1410834</a></p>",
+    "ProfileTitle": "Riding Car Model - Toy for Kids - One piece print",
+    "Thumbnail_Middle": "/Metadata/plate_1.png",
+    "Thumbnail_Small": "/Metadata/plate_1_small.png",
+    "Title": "Riding Car Model - Toy for Kids - One piece print",
+    "CopyRight": "[]",
+    "ProfileUserId": "3228567163",
+    "ProfileUserName": "JaKubina",
+    "DesignRegion": "US",
+    "DesignModelId": "US11244aa71e2e1e",
+    "DesignProfileId": "537614514"
+  },
+  "gcode_entries": [],
+  "analysis_date": "2026-11-14",
+  "studio_cache_original_paths": [
+    "C:/Users/makim/AppData/Local/Temp/bamboo_model/Sat_Nov_14/09_31_51#53276#522/Metadata/.53276.4.3mf",
+    "C:/Users/makim/AppData/Local/Temp/bamboo_model/Sat_Nov_14/09_31_51#53276#522/Metadata/.53276.4.gcode"
+  ],
+  "studio_cache_matches_screenshot": {
+    "layers": 192,
+    "max_z_mm": 30.72,
+    "filament_g": 18.65,
+    "filament_length_mm": 6154.18,
+    "estimated_time": "1h22m47s"
+  },
+  "sent_to_printer_directly_verified": false,
+  "print_completion_evidence": "User-provided photographs and report; no direct job ID match",
+  "snapshot_hashes": {
+    "input\\Car_Toy_Model_Interior_Bam_60mm.3mf": "3b6855b0b94bd02612a7690d432ad7c30604ed8d4991d8fa587aca4b91318baa",
+    "input\\studio-cache-192layers.gcode": "373beda234b7d61f151ab8ce29ec6b9731660d67dd43b45c18bbe8880efc6518",
+    "input\\studio-cache.3mf": "d8ccc8155b568200ba964b2b69d50e9b1c05057471c4ace83f94345d81d00546"
+  }
+}

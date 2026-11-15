@@ -1,0 +1,11 @@
+{
+  "source_sha256": "76628316f715a9b51b7ee1c56d9ebe5037ffd12b5f6b2e6419bb3b53dfb5f75a",
+  "section_y_mm": 6,
+  "measured_gap_z_mm": 33.78,
+  "gap_mm": 11.489124,
+  "inner_x_bounds_mm": [
+    -5.745561,
+    5.743563
+  ],
+  "scope": "source STL shape section, not printed infill or measured sag"
+}

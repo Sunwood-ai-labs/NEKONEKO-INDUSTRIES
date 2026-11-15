@@ -1,0 +1,16 @@
+{
+  "printed_3mf_sha256": "6942b733dea0133b7af70f09316c1b66a790ea70b8aa6631503c689b1ac6e1ee",
+  "gcode_sha256": "f698dbde13c4edc89f036207a141233fe41b574aa014428caf84ac6badf2c9a7",
+  "roof_region_z_mm": [
+    29,
+    35
+  ],
+  "bridge_z_mm": [
+    31.2,
+    34.0,
+    34.2
+  ],
+  "caution": "Positive-extrusion G1 path lengths include anchoring portions; not direct free-span lengths.",
+  "bridge_linear_move_count": 283,
+  "max_bridge_linear_move_length_mm": 18.51488395858856
+}

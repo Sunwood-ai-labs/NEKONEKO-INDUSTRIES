@@ -1,0 +1,199 @@
+{
+  "source_sha256": "3B6855B0B94BD02612A7690D432AD7C30604ED8D4991D8FA587ACA4B91318BAA",
+  "wheel_axis_xy_mm": [
+    72.28766050000002,
+    79.22603
+  ],
+  "center_plane_z_mm": 15.391379999999998,
+  "wheel_vertex_radius_levels": [
+    {
+      "z_mm": 1e-06,
+      "radius_min_mm": 0.42568147713902643,
+      "radius_max_mm": 6.772208104756979
+    },
+    {
+      "z_mm": 0.615656,
+      "radius_min_mm": 0.42568147713902643,
+      "radius_max_mm": 5.417766463970041
+    },
+    {
+      "z_mm": 3.693932,
+      "radius_min_mm": 6.77220550035446,
+      "radius_max_mm": 6.772208104756979
+    },
+    {
+      "z_mm": 7.387863,
+      "radius_min_mm": 1.8469645000000128,
+      "radius_max_mm": 1.8469667009754958
+    },
+    {
+      "z_mm": 15.39138,
+      "radius_min_mm": 1.8469645000000128,
+      "radius_max_mm": 1.8469667009754958
+    },
+    {
+      "z_mm": 23.394897,
+      "radius_min_mm": 1.8469645000000128,
+      "radius_max_mm": 1.8469667009754958
+    },
+    {
+      "z_mm": 27.088828,
+      "radius_min_mm": 6.77220550035446,
+      "radius_max_mm": 6.772208104756979
+    },
+    {
+      "z_mm": 30.167104,
+      "radius_min_mm": 0.4256805896423431,
+      "radius_max_mm": 5.417766463970041
+    },
+    {
+      "z_mm": 30.782759,
+      "radius_min_mm": 0.4256805896423431,
+      "radius_max_mm": 6.772208104756979
+    }
+  ],
+  "upper_cone_start": {
+    "z_mm": 23.394897,
+    "radius_min_mm": 1.8469645000000128,
+    "radius_max_mm": 1.8469667009754958
+  },
+  "upper_cone_end": {
+    "z_mm": 27.088828,
+    "radius_min_mm": 6.77220550035446,
+    "radius_max_mm": 6.772208104756979
+  },
+  "center_shaft_body_min_contour_gap_mm": 0.36046399999999323,
+  "cone_height_mm": 3.693930999999999,
+  "cone_radius_growth_mm": 4.925241403781484,
+  "cone_dr_dz": 1.3333333524046564,
+  "cone_angle_from_vertical_deg": 53.13010274753026,
+  "radial_growth_per_0_16mm_layer_mm": 0.21333333638474503,
+  "note": "Gap is mesh contour distance in one center section, not physical clearance. Cone values are vertex measurements; actual bead overlap was not measured.",
+  "layer178_longest_straight_bridge": {
+    "gcode_line": 144616,
+    "layer": 178,
+    "z_mm": 28.48,
+    "previous_z_mm": 28.32,
+    "start": [
+      84.227,
+      94.17
+    ],
+    "end": [
+      107.607,
+      94.176
+    ],
+    "full_line_length_mm": 23.380000769888778,
+    "mesh_void_intervals": [
+      {
+        "length_mm": 11.139343070509739,
+        "endpoints": [
+          [
+            85.09486074373334,
+            94.17022271875373
+          ],
+          [
+            96.23420344743148,
+            94.17308140379318
+          ]
+        ]
+      },
+      {
+        "length_mm": 8.43074340372822,
+        "endpoints": [
+          [
+            98.51895061030348,
+            94.173667737539
+          ],
+          [
+            106.9496937364126,
+            94.17583131575785
+          ]
+        ]
+      }
+    ],
+    "mesh_material_intervals": [
+      {
+        "length_mm": 0.8678607723114429,
+        "endpoints": [
+          [
+            84.227,
+            94.17
+          ],
+          [
+            85.09486074373334,
+            94.17022271875373
+          ]
+        ]
+      },
+      {
+        "length_mm": 2.2847472381072897,
+        "endpoints": [
+          [
+            96.23420344743148,
+            94.17308140379318
+          ],
+          [
+            98.51895061030348,
+            94.173667737539
+          ]
+        ]
+      },
+      {
+        "length_mm": 0.6573062852320852,
+        "endpoints": [
+          [
+            106.9496937364126,
+            94.17583131575785
+          ],
+          [
+            107.607,
+            94.176
+          ]
+        ]
+      }
+    ],
+    "scope": "Projection against previous-height source mesh section. Does not resolve actual sparse-infill bead contact, sag or global maximum unsupported span.",
+    "previous_layer_backrest_path_crossings": [
+      {
+        "gcode_line": 143220,
+        "feature": "Inner wall",
+        "xy": [
+          97.90823870089076,
+          94.17351101078722
+        ]
+      },
+      {
+        "gcode_line": 143223,
+        "feature": "Inner wall",
+        "xy": [
+          96.84522352625986,
+          94.17323820963036
+        ]
+      },
+      {
+        "gcode_line": 143299,
+        "feature": "Outer wall",
+        "xy": [
+          98.30924787266383,
+          94.17361392160976
+        ]
+      },
+      {
+        "gcode_line": 143302,
+        "feature": "Outer wall",
+        "xy": [
+          96.44424234337647,
+          94.1731353059906
+        ]
+      },
+      {
+        "gcode_line": 143475,
+        "feature": "Gap infill",
+        "xy": [
+          97.37620825123219,
+          94.17337447602684
+        ]
+      }
+    ]
+  }
+}

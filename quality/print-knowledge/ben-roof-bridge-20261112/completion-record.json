@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "event": "print_completed",
+  "recorded_at_utc": "2026-11-12T00:26:18.484150+00:00",
+  "completion_date_jst": "2026-11-12",
+  "finished_at_utc": null,
+  "finished_at_note": "Exact finish time was not captured; the live finished observation is not a finish timestamp.",
+  "human_report": {
+    "source": "user message in current chat",
+    "quote": "できたよ！！これもちゃんと記録しておいて",
+    "claim": "BEN print completed",
+    "reported_at_exact": null
+  },
+  "machine_evidence_file": "completion-status-20261112.json",
+  "machine_observed_at_utc": "2026-11-12T00:23:23.362Z",
+  "machine_state": "finished",
+  "job_name": "checked-394f192a-c83f-4b0a-aff2-cf2c499676fa-BEN-Christmas-3color-sliced",
+  "progress_percent": 100,
+  "layers_completed": 250,
+  "total_layers": 250,
+  "reported_problems": [],
+  "artifact": {
+    "file": "BEN-Christmas-3color-sliced.3mf",
+    "sha256": "6942b733dea0133b7af70f09316c1b66a790ea70b8aa6631503c689b1ac6e1ee",
+    "embedded_gcode_sha256": "f698dbde13c4edc89f036207a141233fe41b574aa014428caf84ac6badf2c9a7",
+    "embedded_gcode_md5": "732d77c6ab9d77cae82b2ea579bcf857",
+    "matches_accepted_gcode": true
+  },
+  "conditions": {
+    "printer": "Bambu Lab A1 mini",
+    "nozzle_mm": 0.4,
+    "quantity": 1,
+    "scale": 1.0,
+    "dimensions_mm_length_width_height": [
+      60.0020046,
+      35.0,
+      49.9980011
+    ],
+    "layer_height_mm": 0.2,
+    "wall_loops": 2,
+    "sparse_infill_percent": 15,
+    "material": "PLA",
+    "ams_physical_labels": [
+      "A3 red PLA #C12E1F",
+      "A1 white PLA #FFFFFF",
+      "A4 dark green PLA #234D40"
+    ],
+    "ams_mapping_zero_based": [
+      2,
+      0,
+      3
+    ],
+    "supports": false,
+    "support_material_A2_used": false
+  },
+  "outcome_scope": "One full-size original-geometry BEN three-colour print completed without generated support paths.",
+  "unverified": [
+    "roof underside sag and finish",
+    "window detail quality",
+    "dimensional accuracy",
+    "floating and stability in water",
+    "actual filament mass and elapsed printing time",
+    "child-use safety"
+  ],
+  "actual_duration_seconds": null,
+  "actual_material_grams": null,
+  "dr_gate_assessment_performed": false,
+  "repeat_print_authorized": false
+}

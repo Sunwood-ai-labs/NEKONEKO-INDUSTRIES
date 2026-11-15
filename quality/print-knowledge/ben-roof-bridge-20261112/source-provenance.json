@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "retrieved_at_utc": "2026-11-11T13:49:06.4974454+00:00",
+  "artifact": {
+    "file": "ben_floating_benchmark.stl",
+    "variant": "normal BEN (not kids-friendly and not ordinary 3DBenchy)",
+    "format": "binary STL",
+    "size_bytes": 4718884,
+    "sha256": "76628316f715a9b51b7ee1c56d9ebe5037ffd12b5f6b2e6419bb3b53dfb5f75a",
+    "triangle_count": 94376,
+    "bounds_stl_coordinate_units": {
+      "x": {
+        "min": -17.5,
+        "max": 17.5
+      },
+      "y": {
+        "min": -29.4243431091309,
+        "max": 30.5776615142822
+      },
+      "z": {
+        "min": 0,
+        "max": 49.9980010986328
+      }
+    },
+    "dimensions_stl_coordinate_units": {
+      "x": 35.0,
+      "y": 60.0020046234131,
+      "z": 49.9980010986328
+    },
+    "units_note": "STL does not encode units; values above are raw coordinates. Confirm mm interpretation in the slicer before preserving scale."
+  },
+  "origin": {
+    "model": "BEN the floating BENCHMARK (Benchy)",
+    "creator": "vd print (vandragon_de)",
+    "thingiverse_original_page": "https://www.thingiverse.com/thing:2795629",
+    "archive_item": "https://archive.org/details/thingiverse-2795629",
+    "archive_metadata": "https://archive.org/metadata/thingiverse-2795629",
+    "archive_download_url": "https://archive.org/download/thingiverse-2795629/BEN_the_floating_BENCHMARK_Benchy_2795629.zip",
+    "printables_author_page": "https://www.printables.com/model/377-ben-the-floating-benchmark-benchy",
+    "printables_author_pdf": "https://media.printables.com/media/prints/377/pdfs/377-ben-the-floating-benchmark-benchy-44f76fe8-a39c-4ee8-a59a-98322216320b.pdf",
+    "thingiverse_creation_date": "2018-02-15",
+    "downloaded_archive": "original_thingiverse_2795629.zip",
+    "downloaded_archive_size_bytes": 5315395,
+    "downloaded_archive_sha256": "41bbc338c9c499b2940852dc2150968c42e9597c578a5afc3805ef3ce0d6dcff",
+    "downloaded_archive_md5": "6a69461eb6e87548956406ae58dbb8b4",
+    "downloaded_archive_sha1": "537c8c41fc0608d86ef7d2e61001e8c8d8516fd3",
+    "archive_hashes_match_archive_org_metadata": true,
+    "extracted_entry": "files/ben_floating_benchmark.stl",
+    "entry_extracted_byte_for_byte": true,
+    "acquisition_note": "Direct Thingiverse HTTP requests returned Cloudflare 403; the archive item metadata and downloaded original Thingiverse ZIP identify the creator, title, and exact STL entry."
+  },
+  "license_evidence": [
+    {
+      "source": "LICENSE.txt included in original Thingiverse ZIP",
+      "reported_license": "CC BY-NC-SA 3.0",
+      "evidence": "The ZIP states this Thingiverse work by vandragon_de is licensed under Creative Commons Attribution-Non-Commercial-Share Alike and links to https://creativecommons.org/licenses/by-nc-sa/3.0/."
+    },
+    {
+      "source": "Internet Archive metadata for thingiverse-2795629",
+      "reported_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "source": "Author PDF linked from Printables model 377",
+      "reported_license": "Creative Commons 4.0 International, Attribution-Noncommercial-Share Alike"
+    }
+  ],
+  "license_version_status": "The original Thingiverse ZIP says 3.0, while Internet Archive metadata and the author PDF say 4.0. Both identify BY-NC-SA terms; the exact governing version was not resolved here."
+}

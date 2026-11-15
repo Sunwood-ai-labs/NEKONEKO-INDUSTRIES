@@ -1,0 +1,52 @@
+{
+  "studio_cache": {
+    "status": "PASS_FILE_ONLY",
+    "input": "studio-cache.3mf",
+    "sha256": "d8ccc8155b568200ba964b2b69d50e9b1c05057471c4ace83f94345d81d00546",
+    "slice_support_used": false,
+    "positive_support_extrusion_moves": 0,
+    "positive_support_interface_extrusion_moves": 0,
+    "positive_object_feature_extrusion_moves": 83218,
+    "support_interface_tools_by_logical_material": {},
+    "support_interface_raw_gcode_tools": {},
+    "t1000_interface_moves_resolved_from_completed_material_selection": 0,
+    "object_feature_tools_by_logical_material": {
+      "0": 83218
+    },
+    "unresolved_material_feature_moves": 0,
+    "unknown_feature_extrusion_moves": 0,
+    "toolchange_anomalies": [],
+    "support_interface_filament_selector": "0",
+    "issues": [],
+    "scope": [
+      "Reads only the supplied sliced 3MF metadata and embedded G-code.",
+      "Does not verify the physical spool, current AMS mapping, or physical support removal.",
+      "PASS_FILE_ONLY is a file preflight result, not approval to repeat the whole model print."
+    ]
+  },
+  "comparison_reslice": {
+    "status": "PASS_FILE_ONLY",
+    "input": "analysis-resliced.3mf",
+    "sha256": "07d64174ba26f3f8bdc444287347e70deefeacf75fcd3bd22144a32fc73874b6",
+    "slice_support_used": false,
+    "positive_support_extrusion_moves": 0,
+    "positive_support_interface_extrusion_moves": 0,
+    "positive_object_feature_extrusion_moves": 83216,
+    "support_interface_tools_by_logical_material": {},
+    "support_interface_raw_gcode_tools": {},
+    "t1000_interface_moves_resolved_from_completed_material_selection": 0,
+    "object_feature_tools_by_logical_material": {
+      "0": 83216
+    },
+    "unresolved_material_feature_moves": 0,
+    "unknown_feature_extrusion_moves": 0,
+    "toolchange_anomalies": [],
+    "support_interface_filament_selector": "0",
+    "issues": [],
+    "scope": [
+      "Reads only the supplied sliced 3MF metadata and embedded G-code.",
+      "Does not verify the physical spool, current AMS mapping, or physical support removal.",
+      "PASS_FILE_ONLY is a file preflight result, not approval to repeat the whole model print."
+    ]
+  }
+}

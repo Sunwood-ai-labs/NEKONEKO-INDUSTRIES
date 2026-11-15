@@ -1,0 +1,23 @@
+{
+  "contract": "counterpart/1",
+  "observedAt": "2026-11-12T00:23:23.362Z",
+  "state": "finished",
+  "problems": [],
+  "job": {
+    "name": "checked-394f192a-c83f-4b0a-aff2-cf2c499676fa-BEN-Christmas-3color-sliced",
+    "progress": 100,
+    "remainingSec": 0,
+    "totalLayers": 250,
+    "layer": 250
+  },
+  "temps": {
+    "nozzle": {
+      "actual": 23.1,
+      "target": 0
+    },
+    "bed": {
+      "actual": 22,
+      "target": 0
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "source_file": "C:\\Prj\\NEKOMO\\quality\\print-knowledge\\riding-car-supportless-20261114\\input\\Car_Toy_Model_Interior_Bam_60mm.3mf",
+  "original_download_path": "C:\\Users\\makim\\Downloads\\Car_Toy_Model_Interior_Bam_60mm.3mf",
+  "source_sha256": "3B6855B0B94BD02612A7690D432AD7C30604ED8D4991D8FA587ACA4B91318BAA",
+  "cache_3mf": "C:\\Prj\\NEKOMO\\quality\\print-knowledge\\riding-car-supportless-20261114\\input\\studio-cache.3mf",
+  "cache_sha256": "D8CCC8155B568200BA964B2B69D50E9B1C05057471C4ACE83F94345D81D00546",
+  "cache_core_model_inventory": {
+    "object_count": 0,
+    "build_item_count": 0
+  },
+  "cache_embedded_gcode_comparison": {
+    "embedded_sha256": "373BEDA234B7D61F151AB8CE29EC6B9731660D67DD43B45C18BBE8880EFC6518",
+    "embedded_byte_count": 3966954,
+    "separate_file_sha256": "373BEDA234B7D61F151AB8CE29EC6B9731660D67DD43B45C18BBE8880EFC6518",
+    "separate_file_byte_count": 3966954,
+    "byte_identical": true
+  },
+  "coordinate_frame": "plate/build coordinates, mm; +Z is the build direction",
+  "transform_rule": "3MF model build item and component transforms only; Metadata/model_settings.config matrix is ignored",
+  "parts": [
+    {
+      "name": "Body1",
+      "source_model": "3D/Objects/object_16.model",
+      "source_object_id": "1",
+      "transform_row_major_3mf": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        90.0,
+        91.539138,
+        15.39138
+      ],
+      "raw_vertex_count": 6992,
+      "raw_face_count": 14008,
+      "bbox_plate": {
+        "min_mm": [
+          60.0,
+          75.53210399999999,
+          9.999999992515995e-07
+        ],
+        "max_mm": [
+          120.0,
+          107.546172,
+          30.782759
+        ],
+        "size_mm": [
+          60.0,
+          32.01406800000001,
+          30.782758
+        ]
+      },
+      "topology": {
+        "vertices_after_weld": 6992,
+        "faces": 14008,
+        "connected_components": 1,
+        "watertight": true,
+        "winding_consistent": true,
+        "volume_mm3": 24879.905169486912,
+        "euler_number": -12
+      },
+      "center_section_polyline_count": 4
+    },
+    {
+      "name": "Body14",
+      "source_model": "3D/Objects/object_16.model",
+      "source_object_id": "2",
+      "transform_row_major_3mf": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        72.28766,
+        79.22603,
+        15.39138
+      ],
+      "raw_vertex_count": 804,
+      "raw_face_count": 1604,
+      "bbox_plate": {
+        "min_mm": [
+          65.51545300000001,
+          72.453823,
+          9.999999992515995e-07
+        ],
+        "max_mm": [
+          79.05986800000001,
+          85.99823699999999,
+          30.782759
+        ],
+        "size_mm": [
+          13.544415,
+          13.544413999999989,
+          30.782758
+        ]
+      },
+      "topology": {
+        "vertices_after_weld": 804,
+        "faces": 1604,
+        "connected_components": 1,
+        "watertight": true,
+        "winding_consistent": true,
+        "volume_mm3": 1679.5564908706817,
+        "euler_number": 2
+      },
+      "center_section_polyline_count": 1
+    },
+    {
+      "name": "Body3",
+      "source_model": "3D/Objects/object_16.model",
+      "source_object_id": "3",
+      "transform_row_major_3mf": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        106.76435000000001,
+        79.22603,
+        15.39138
+      ],
+      "raw_vertex_count": 804,
+      "raw_face_count": 1604,
+      "bbox_plate": {
+        "min_mm": [
+          99.99214400000001,
+          72.453823,
+          9.999999992515995e-07
+        ],
+        "max_mm": [
+          113.536557,
+          85.99823699999999,
+          30.782759
+        ],
+        "size_mm": [
+          13.544412999999992,
+          13.544413999999989,
+          30.782758
+        ]
+      },
+      "topology": {
+        "vertices_after_weld": 804,
+        "faces": 1604,
+        "connected_components": 1,
+        "watertight": true,
+        "winding_consistent": true,
+        "volume_mm3": 1679.5564886890625,
+        "euler_number": 2
+      },
+      "center_section_polyline_count": 1
+    }
+  ],
+  "assembly_bbox_plate": {
+    "min_mm": [
+      60.0,
+      72.453823,
+      9.999999992515995e-07
+    ],
+    "max_mm": [
+      120.0,
+      107.546172,
+      30.782759
+    ],
+    "size_mm": [
+      60.0,
+      35.092349,
+      30.782758
+    ]
+  },
+  "center_section_z_mm": 15.391379999999998,
+  "source_cache_mesh_comparison": {
+    "status": "not_comparable",
+    "all_parts_match": null,
+    "reason": "studio-cache.3mf core model has no mesh resources and no build items"
+  },
+  "artifacts": {
+    "center_section_png": "C:\\Prj\\NEKOMO\\quality\\print-knowledge\\riding-car-supportless-20261114\\geometry\\center-section.png"
+  }
+}
