@@ -1,0 +1,37 @@
+{
+  "phase": "complete",
+  "canonical_name": "NEKONEKO INDUSTRIES",
+  "github_repository": "Sunwood-ai-labs/NEKONEKO-INDUSTRIES",
+  "github_description_updated": true,
+  "baseline_snapshot_check": "FAILED_BEFORE_RENAME: stale hashes and unpublished local links in working tree",
+  "support_contact_regressions": {
+    "tests": 21,
+    "result": "PASS"
+  },
+  "lynx_3mf_sha256": "35e196faf204ccaa150527abfd792bf485a73fa06e7ef4cf9cc9cf196d56964c",
+  "physical_workspace_path_changed": false,
+  "current_name_check": "PASS: 33 current files",
+  "negative_brand_reintroduction": "REJECTED_AS_EXPECTED",
+  "negative_skill_reintroduction": "REJECTED_AS_EXPECTED",
+  "legacy_inventory": {
+    "occurrences": 22098,
+    "path": "legacy-name-inventory-20261114.json"
+  },
+  "public_base_commit": "966a0ff20b1ecdb41e9ea0bfa8c8ab03d195e08c",
+  "public_snapshot": {
+    "result": "PASS",
+    "files": 340,
+    "local_links": 401,
+    "cad_archives": 42
+  },
+  "public_commit": "a8cda2bbdb469363b0efd4ae532b845cbefea95d",
+  "public_branch": "main",
+  "github_actions": {
+    "result": "success",
+    "run_id": 43604411539,
+    "url": "https://github.com/Sunwood-ai-labs/NEKONEKO-INDUSTRIES/actions/runs/43604411539"
+  },
+  "public_readback": "PASS: README, identity, brand README, three canonical skill directories",
+  "public_review": "One altered historical source path found and restored before publication; no CAD/print/PNG payload changed",
+  "historical_records_preserved": true
+}

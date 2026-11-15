@@ -1,5 +1,7 @@
 {
   "schema_version": 1,
+  "dr_definition_version": 1,
+  "dr_definition_note": "stage_namesとrows内のDR区分・判定は旧DR定義v1の履歴記録です。現行v2へ一括で読み替えたり、番号を付け替えたりしていません。現行定義は .agents/skills/nekoneko-dr-review/references/stages.md を参照してください。",
   "stage_names": {
     "DR0": "要求",
     "DR1": "設計",

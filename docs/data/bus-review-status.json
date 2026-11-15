@@ -1,5 +1,7 @@
 {
   "schema_version": 2,
+  "dr_definition_version": 1,
+  "dr_definition_note": "このファイルのDR番号と判定は旧DR定義v1による履歴記録です。現行v2へ読み替えていません。現行定義は .agents/skills/nekoneko-dr-review/references/stages.md を参照してください。",
   "as_of": "2026-11-10",
   "attribution_rule": "人間の設計要望・採用指示・印刷報告と、エージェントの審査・機械記録を区別して記録する。",
   "human_events": [

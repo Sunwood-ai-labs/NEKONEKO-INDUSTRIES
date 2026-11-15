@@ -35,7 +35,7 @@ Avoid: Indistinct blobs, stars, faces, ornaments, extra detail, gradients, shado
 
 修正理由: 初稿では飛行機の窓と細い切れ込みが目立ったため、乗り物の大きな形を残して細部を減らした。
 
-編集プロンプト:
+編集プロンプト
 
 ```text
 Edit the provided logo image only. Keep the same overall 3:2 landscape composition, pure black on white palette, text placement, typography, and generous margins. Preserve one unified toy vehicle. Keep the large recognizable airplane silhouette above the boat with its actual horizontal wing and clear tail, the shallow boat hull, and the two round car wheels beneath it. Remove the white cockpit window and every thin decorative slit or narrow cutout from the airplane and hull. Simplify the emblem to four bold black shapes only: one solid airplane silhouette that still clearly shows the horizontal wing and tail, one simple solid boat hull, and two round black wheel rings with large white centers. Use only broad, clean white gaps to separate the airplane, hull, and wheels. Retain the exact text “NEKONEKO INDUSTRIES” and “Wonder to Go.” unchanged. The car, boat, and airplane must remain immediately recognizable at thumbnail size. Add no other details, symbols, or text.

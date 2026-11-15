@@ -28,7 +28,7 @@ python quality/support-removal-preflight.py designs/school-bus-v06-empty-inverte
 | v09傾斜ボンネット | `PASS_FILE_ONLY`。保存3MFのファイル検査を通過 | 0 |
 | v06赤タイヤ | `BLOCK`。専用サポート材の界面割当が確認できない旧データ | 1 |
 
-検査対象は3MFに含まれる設定とG-codeです。AMSの実際の配置、サポートの除去結果、造形可否は[DR手順](../.agents/skills/nekoneko-dr-review/references/stages.md)で個別に扱います。GitHub Actionsもこの2件の結果と、取得直後の検証を確認します。
+検査対象は3MFに含まれる設定とG-codeです。`PASS_FILE_ONLY`はファイル内の材料指定と造形経路の検査結果を表します。実際のAMS配置、サポートの除去結果、印刷開始の判断は[現行v2のDR手順](../.agents/skills/nekoneko-dr-review/references/stages.md)で別に扱います。現物検証はDRの段階とは独立した附表に記録します。GitHub Actionsもこの2件の結果と、取得直後の検証を確認します。
 
 ## 3. v08とv09のボンネットの経路を比較
 
