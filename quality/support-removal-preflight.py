@@ -18,6 +18,8 @@ from pathlib import Path
 from typing import Any
 import xml.etree.ElementTree as ET
 
+from support_contact_lint import audit_contacts
+
 
 SUPPORT_POLICY_CODE = "NNI-TR-001"
 INPUT_EVIDENCE_CODE = "NNI-TR-002"
@@ -382,13 +384,15 @@ def preflight(path: Path) -> dict[str, Any]:
     }
     dedicated_tools.discard(None)
 
-    if audit.support_moves > 0 and audit.undecidable_e_moves:
+    if audit.undecidable_e_moves:
         issues.append(
             Issue(
                 INPUT_EVIDENCE_CODE,
                 "Support or object extrusion has E moves with unknown M82/M83 state.",
             )
         )
+    if audit.unknown_feature_moves:
+        issues.append(Issue(INPUT_EVIDENCE_CODE, "Unclassified positive extrusion prevents a verified support-free or contact result."))
     if (audit.support_moves > 0 or dedicated_tools) and audit.undecidable_material_moves:
         issues.append(
             Issue(
@@ -507,6 +511,11 @@ def preflight(path: Path) -> dict[str, Any]:
             )
         )
 
+    contact_audit = None
+    if audit.support_moves > 0 and not issues:
+        contact_audit = audit_contacts(gcode, dedicated_tools)
+        issues.extend(Issue(item["code"], item["message"]) for item in contact_audit["issues"])
+
     status = "PASS_FILE_ONLY" if not issues else "BLOCK"
     return {
         "status": status,
@@ -524,6 +533,7 @@ def preflight(path: Path) -> dict[str, Any]:
         "unknown_feature_extrusion_moves": audit.unknown_feature_moves,
         "toolchange_anomalies": list(audit.toolchange_anomalies),
         "support_interface_filament_selector": settings.get("support_interface_filament"),
+        "contact_audit": contact_audit,
         "issues": [issue.__dict__ for issue in issues],
         "scope": [
             "Reads only the supplied sliced 3MF metadata and embedded G-code.",
