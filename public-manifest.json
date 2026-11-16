@@ -75,8 +75,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 17367,
-      "sha256": "244233da2d06fb1514e3bce394f237977cd71910ac996d727ef142025bbe04d2"
+      "bytes": 17366,
+      "sha256": "9f47a27820d9d7a56f6d5d10c2902c49583e9528e6c44dd8ff82f73f6f111fa8"
     },
     {
       "path": "designs/school-bus-v01/build_bus.py",

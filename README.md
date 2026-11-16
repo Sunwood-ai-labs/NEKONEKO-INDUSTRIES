@@ -32,7 +32,6 @@
 | バス v09・傾斜ボンネット | FINISH・100%・119層と本人の完了報告 | 完成品の品質レビューは未記録。[印刷記録](docs/evidence/print-confirmation.json) |
 | BEN・クリスマス3色 | 2026-11-12、250/250層・100%と本人の完了報告。生成サポートなし | 屋根裏の仕上がり、寸法、浮力は未検証。BENの造形を参考にした記録で、独自設計品とは区別。[完了記録](quality/print-knowledge/ben-roof-bridge-20261112/completion-record.json)・[設計への知見](quality/print-knowledge/ben-roof-bridge-20261112/README.md) |
 | Riding Car Model・60 mm | 2026-11-14の記録に本人の完了報告と実物写真 | **JaKubina作の外部ベンチマーク**。保存キャッシュと実送信ジョブの直接照合は未確認。[分析記録](quality/print-knowledge/riding-car-supportless-20261114/README.md)・[原作者の配布先](https://makerworld.com/en/models/1410834) |
-
 | Pick-Up Bench r02・60 mm本体 | 2026-11-14 JST、FINISH・100%・183/183層。Codex履歴と保存済み終了記録を照合し、カメラ確認の記録も確認 | 本体の支持材除去、タイヤ・屋根の細部は実物確認待ち。底部4 mm検証片の除去成功とは別判定。モデル棚卸し（`docs/models-inventory.md`） |
 
 ### 実物写真
